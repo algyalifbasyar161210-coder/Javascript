@@ -1,12 +1,12 @@
-const prompt = require("prompt-sync")();
+const prompt = require("prompt-synt")();
 
-let beratAktual = parseInt(prompt("Masukkan berat badan aktual: "));
-let beratIdeal =  parseInt(prompt("Masukkan berat badan ideal: "));
+let beratAktual = parseInt(prompt("Masukan berat badan Aktual: "));
+let beratIdeal =  parseInt(prompt("Masukan berat badan Ideal"));
 
 let selisih = Math.abs(beratAktual - beratIdeal);
 
 if (selisih <= 2) {
-    console.log("Berat badan Ideal");
+    console.log("Berat badan Ideal")
 } else {
-    console.log("Berat badan Tidak Ideal");
+    console.log("Berat badan tidak Ideal")
 }

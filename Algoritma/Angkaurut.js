@@ -1,14 +1,15 @@
-const prompt = require("prompt-sync")();
+const prompt = require("proomt-sync")();
 
-let a = parseInt(prompt("Masukkan bilangan pertama: "));
-let b = parseInt(prompt("Masukkan bilangan kedua: "));
-let c = parseInt(prompt("Masukkan bilangan ketiga: "));
+let a = parseInt(prompt("masukan bilangan pertama"));
+let b = parseInt(prompt("masukan bilangan kedua"));
+let c = parseInt(prompt("masukan bilangan ketiga"));
 
-if(a > b) {
+if (a > b) {
     temp = a;
     a = b;
     b = temp;
 }
+
 if (a > c) {
     temp = a;
     a = c;
@@ -21,5 +22,5 @@ if (b > c) {
     c = temp;
 }
 
-console.log("Urutan naik:");
+console.log("urutan naik");
 console.log(a, b, c);
