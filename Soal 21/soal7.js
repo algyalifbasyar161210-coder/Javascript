@@ -1,6 +1,6 @@
 // soal 7
-// Tanggal : 22 Mei 2026
-// Pembuat: Muhammad Rijam Malik
+// Tanggal : 23 juni 2026
+// Pembuat : Algy Alif Basyar
 
 let a = 8.3;
 let c = "3.2";

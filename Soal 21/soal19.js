@@ -1,6 +1,6 @@
 // soal 19
-// Tanggal :  30 Mei 2026
-// Pembuat: Muhammad Rijam Malik
+// Tanggal :  24 juni 2026
+// Pembuat : Algy Alif Basyar
 
 const prompt = require("prompt-sync")();
 

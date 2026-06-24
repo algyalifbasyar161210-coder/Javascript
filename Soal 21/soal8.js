@@ -1,6 +1,6 @@
 // soal 8
-// Tanggal : 23 Mei 2026
-// Pembuat: Muhammad Rijam Malik
+// Tanggal : 23 juni 2026
+// Pembuat : Algy Alif Basyar
 
 const prompt = require("prompt-sync")();
 

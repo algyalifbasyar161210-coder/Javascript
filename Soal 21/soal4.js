@@ -1,6 +1,6 @@
 // soal 4
-// Tanggal : 21 Mei 2026
-// Pembuat: Muhammad Rijam Malik
+// Tanggal : 22 juni 2026
+// Pembuat : Algy Alif Basyar
 
 let angka1 = 80.87;
 let angka2 = "8.97";

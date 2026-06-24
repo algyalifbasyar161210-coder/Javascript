@@ -1,6 +1,6 @@
 // soal 6
-// Tanggal : 22 Mei 2026
-// Pembuat: Muhammad Rijam Malik
+// Tanggal : 22 juni 2026
+// Pembuat : Algy Alif Basyar
 
 let namaSiswa = "Budimansah";
 let ukuranSepatu = 40;

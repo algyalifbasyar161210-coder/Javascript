@@ -1,6 +1,6 @@
 // soal 3
-// Tanggal : 21 Mei 2026
-// Pembuat: Muhammad Rijam Malik
+// Tanggal : 22 juni 2026
+// Pembuat : Algy Alif Basyar
 
 let addres = "Cianjur";
 let kuota = 258;

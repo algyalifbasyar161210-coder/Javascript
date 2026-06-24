@@ -1,11 +1,11 @@
 // soal 1
-// Tanggal : 21 Mei 2026
-// Pembuat: Muhammad Rijam Malik
+// Tanggal : 22 juni 2026
+// Pembuat : Algy Alif Basyae
 
 console.log("*********************************************");
-console.log("Ujian ALgoritma Muhammad Rijam Malik");
+console.log("Ujian ALgoritma Algy Alif Basyar");
 console.log("---------------------------------------------");
 
 document.write("************************************* <br>");
-document.write("Ujian ALgoritma Muhammad Rijam Malik <br>");
+document.write("Ujian ALgoritma Algy Alif Basyar <br>");
 document.write("-------------------------------------------------------");
